@@ -1,8 +1,6 @@
-# ecommerce-data-analysis
-Exploratory data analysis of Brazilian e-commerce data using Python, Pandas and data visualization to identify sales trends, customer behavior and business insights
 # Brazilian E-commerce Data Analysis
 
-Exploratory data analysis of Brazilian e-commerce data using Python, Pandas, NumPy, Matplotlib and Seaborn.
+Exploratory data analysis of Brazilian e-commerce data using Python, Pandas, NumPy, Matplotlib and Seaborn to identify sales trends, customer behavior and business insights.
 
 ## Project Objective
 
@@ -43,10 +41,6 @@ Brazilian E-Commerce Public Dataset by Olist.
 
 ```text
 ecommerce-data-analysis/
-├── notebooks/
-│   └── ecommerce_analysis.ipynb
-├── data/
-│   └── raw/
-├── images/
+├── ecommerce_analysis.ipynb
 ├── README.md
 └── .gitignore
